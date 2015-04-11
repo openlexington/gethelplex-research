@@ -1,0 +1,98 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="715" measuredH="597" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="519" y="128" w="-1" h="-1" measuredW="110" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Get%20Help%20Kentucky</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="__group__" x="433" y="24" w="282" h="573" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="20">
+          <controlProperties>
+            <model>IPhone5</model>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="22" controlTypeID="__group__" x="479" y="164" w="190" h="348" measuredW="190" measuredH="348" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>0%2C0%2C1000%2C757</crop>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="131" h="43" measuredW="131" measuredH="43" zOrder="0" locked="false" isInGroup="22">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RadioButton" x="0" y="21" w="-1" h="-1" measuredW="82" measuredH="22" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Adolescent</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RadioButton" x="85" y="21" w="-1" h="-1" measuredW="46" measuredH="22" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Adult</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="21" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Age</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="1" y="226" w="-1" h="-1" measuredW="75" measuredH="24" zOrder="1" locked="false" isInGroup="22">
+          <controlProperties>
+            <text>Gender</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="1" y="433" w="-1" h="-1" measuredW="39" measuredH="27" zOrder="2" locked="false" isInGroup="22">
+          <controlProperties>
+            <text>Go</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="1" y="392" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="3" locked="false" isInGroup="22">
+          <controlProperties>
+            <text>40507</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="1" y="264" w="158" h="114" measuredW="158" measuredH="114" zOrder="4" locked="false" isInGroup="22">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="26" w="-1" h="-1" measuredW="62" measuredH="22" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Alcohol</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="48" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Heroin</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="70" w="-1" h="-1" measuredW="158" measuredH="22" zOrder="2" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Prescription%20Medication</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="92" w="-1" h="-1" measuredW="54" measuredH="22" zOrder="3" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Other</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="4" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Substance</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="57" w="-1" h="-1" measuredW="83" measuredH="62" zOrder="5" locked="false" isInGroup="22">
+          <controlProperties>
+            <text>Inpatient%0AOutpatient%0ABoth</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="133" w="190" h="-1" measuredW="75" measuredH="78" zOrder="6" locked="false" isInGroup="22">
+          <controlProperties>
+            <text>12-step%0ACounseling%0AIntensive%20Outpatient%20Program%0APartial%20hospitalization%20Program</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
