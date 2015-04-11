@@ -1,0 +1,124 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1197" measuredH="778" mockupW="1140" mockupH="768">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="57" y="10" w="1140" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Get%20Help%0Ahttp%3A//gethelpky.org</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="57" y="83" w="234" h="573" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="291" y="83" w="906" h="573" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Title" x="72" y="112" w="-1" h="-1" measuredW="159" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Get%20Help</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Title" x="72" y="155" w="-1" h="-1" measuredW="168" measuredH="43" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kentucky</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Paragraph" x="72" y="243" w="168" h="126" measuredW="275" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>If%20this%20is%20an%20emergency%2C%20please%20dial%20911.%0A%20%0AOtherwise%2C%20use%20the%20form%20to%20the%20rigth%20to%20find%20a%20treatment%20facility%20right%20for%20you%20or%20your%20loved%20one.</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::SubTitle" x="340" y="119" w="-1" h="-1" measuredW="286" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Treatment%20Facility%20Locator</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Image" x="72" y="682" w="86" h="44" measuredW="314" measuredH="160" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/OpenLex.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Image" x="178" y="682" w="85" h="44" measuredW="256" measuredH="130" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/UK_logo_wordmark_286_sm.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Image" x="298" y="677" w="57" h="54" measuredW="200" measuredH="200" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/lfucg.jpeg</src>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="340" y="191" w="-1" h="-1" measuredW="199" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1.%20What%20type%20of%20treatment%20facility%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="340" y="155" w="-1" h="-1" measuredW="515" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Do%20you/does%20someone%20you%20know%20need%20to%20access%20substance%20abuse%20treatment%20services%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::ComboBox" x="340" y="219" w="97" h="-1" measuredW="60" measuredH="78" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Type%0AInpatient%0AOutpatient%0ABoth</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Button" x="340" y="312" w="-1" h="-1" measuredW="72" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Next%20%3E%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="__group__" x="340" y="369" w="200" h="195" measuredW="200" measuredH="195" zOrder="14" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="114" measuredH="21" zOrder="0" locked="false" isInGroup="46">
+          <controlProperties>
+            <text>2.%20Treament%20Level%3F</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="28" w="200" h="-1" measuredW="127" measuredH="78" zOrder="1" locked="false" isInGroup="46">
+          <controlProperties>
+            <text>12-step%20program%0ACounseling%0AIntensive%20Outpatient%20Program%0APartial%20hospitalization%20Program</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="0" y="121" w="200" h="74" measuredW="200" measuredH="74" zOrder="2" locked="false" isInGroup="46">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="171" measuredH="21" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>3.%20Detox%3F%20%28unless%20outpatient%29</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="28" w="200" h="-1" measuredW="121" measuredH="46" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Inpatient%20Detox%0AInpatient%20Residential</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Canvas" x="298" y="354" w="876" h="286" measuredW="100" measuredH="70" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <borderColor>16777215</borderColor>
+        <color>14540253</color>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Arrow" x="444" y="321" w="65" h="60" measuredW="150" measuredH="100" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::StickyNote" x="524" y="258" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Next%20action%20shows%20next%20hidden%20question.</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::HelpButton" x="545" y="192" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="16" locked="false" isInGroup="-1"/>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::HelpButton" x="467" y="369" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::HelpButton" x="521" y="488" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Tooltip" x="548" y="210" w="147" h="33" measuredW="144" measuredH="0" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>a%20helpful%20tooltip</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
