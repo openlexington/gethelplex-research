@@ -5,7 +5,7 @@
 
 20 or so participants in group discussion led by Amy Baker of LFUCG Social Services
 
-***
+**
 
 ### KEY QUOTES + COMMENTS
 
