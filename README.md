@@ -1,6 +1,6 @@
 # gethelpky
 
-A substance abuse treament facility locator.
+A substance abuse treament facility locator for Kentucky
 
 ## Why?
 
@@ -31,6 +31,13 @@ User research documents:
 
 In taking on this project, Open Lexington has reached out to many other civic groups tackling similar
 resource directory problems. The consensus is that [it's hard to maintain good data](http://erikschwartz.net/2015-05-20-n00bs-guide-to-community-resource-directories/) over the long term because of the sustained effort required. Many business and non-profit models are being explored but there's no clear winner yet.
+
+In order to encourge more frequent data updates, we are using a simple Google Sheet as a backend to our
+June 2015 prototype (h/t @allaface). A client-side javascript application hosted on GitHub can pull from the Google Sheet
+eliminating hosting cost and complexity.
+
+But the js application does sacrifice some search engine optimization so we may end up tackling this problem at
+some point.
 
 ## Development
 
